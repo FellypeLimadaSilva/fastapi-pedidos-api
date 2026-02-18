@@ -1,7 +1,9 @@
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.100%2B-success)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![FastAPI](https://img.shields.io/badge/FastAPI-framework-009688)
+![License](https://img.shields.io/github/license/FellypelimadaSilva/fastapi-pedidos-api)
+![Repo Size](https://img.shields.io/github/repo-size/FellypelimadaSilva/fastapi-pedidos-api)
+![Last Commit](https://img.shields.io/github/last-commit/FellypelimadaSilva/fastapi-pedidos-api)
+
 
 #  FastAPI - Sistema de Pedidos
 
