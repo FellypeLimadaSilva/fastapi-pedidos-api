@@ -1,13 +1,18 @@
-Ambiente virtual
-.venv/
-
-Variáveis de ambiente
-.env
-
-Banco de dados
-.db
-
-Cache
+ Python
 __pycache__/
 .pyc
+.pyo
+.pyd
 
+Virtual env
+.venv/
+venv/
+
+Env files
+.env
+
+SQLite
+.db
+
+Alembic cache
+alembic/__pycache__/
