@@ -16,7 +16,6 @@ Remover itens
 
 Finalizar pedidos
 
-
 Tecnologias Utilizadas
 
 Python 3.10+
