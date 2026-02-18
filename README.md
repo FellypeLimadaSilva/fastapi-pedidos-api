@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/python-3.10%2B-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.100%2B-success)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+
 #  FastAPI - Sistema de Pedidos
 
 API REST desenvolvida com **FastAPI**, utilizando **JWT Authentication**, **SQLAlchemy**, **SQLite** e **Alembic** para controle de usuários e gerenciamento de pedidos.
