@@ -1,31 +1,26 @@
-FastAPI - Sistema de Pedidos
+# FastAPI - Sistema de Pedidos
 
-API REST desenvolvida com FastAPI, SQLAlchemy e JWT Authentication.
+API REST desenvolvida com **FastAPI**, **SQLAlchemy**, **SQLite**, **Alembic** e **JWT Authentication**.
 
-Este projeto simula um sistema de pedidos onde usuários podem:
+## Funcionalidades
+- Criar conta
+- Fazer login
+- Criar pedidos
+- Adicionar itens ao pedido
+- Remover itens do pedido
+- Finalizar pedidos
 
-Criar conta
+## Tecnologias utilizadas
+- Python 3.10+
+- FastAPI
+- SQLAlchemy
+- SQLite
+- Alembic
+- JWT Authentication
 
-Fazer login
-
-Criar pedidos
-
-Adicionar itens ao pedido
-
-Remover itens
-
-Finalizar pedidos
-
-Tecnologias Utilizadas
-
-Python 3.10+
-
-FastAPI
-
-SQLAlchemy
-
-SQLite
-
-Alembic
-
-JWT Authentication
+## Como rodar o projeto
+1. Clone o repositório
+2. Crie e ative um ambiente virtual
+3. Instale as dependências
+4. Rode as migrations (Alembic)
+5. Inicie o servidor com Uvicorn
